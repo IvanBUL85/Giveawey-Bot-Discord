@@ -1,7 +1,7 @@
-# Mr.-Giveaway
+# DiscordBOT
 An Open-Source Giveaway Bot for Discord
 ## Authors
-Created by Packer#9020 with help and guidance from HyperCoder#2975
+Created by IvanBUL85
 ## Config Setup
 ./config.json:
 ```json
